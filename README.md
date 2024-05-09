@@ -8,7 +8,8 @@
   <h2 align= center>I'm <a href="https://github.com/ksupyl" target="_blank">Ksenia</a>. Let me introduce myself and my modest knowledge and skills <br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0ZHR1eWk0b3p0Y2g3MmI3NzFrdmVoMTA1NXFhaWk3bmVpejA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/hof5uMY0nBwxyjY9S2/giphy.gif" width="40px"/></h2>
   
   ### :woman_technologist: About Me :
-  - I am currently studying IT and I am still hoping to find something that is extremely fascinating to me.
+  - :mag: I am currently studying IT and I am still hoping to find something that is extremely fascinating to me.
+
 ---
   ### :technologist: Languages, Frameworks and Libraries:
   <div>
@@ -44,10 +45,10 @@
   
 ---
   ### :fire: My Stats :
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksupyl&theme=blue-navy&border_radius=10)](https://git.io/streak-stats)     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksupyl&theme=blue-navy&border_radius=10)](https://git.io/streak-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&border_radius=10)
 
 ---
+   ### :wink: For mood:
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
