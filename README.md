@@ -49,7 +49,7 @@
   
 ---
   ### :fire: My Stats :
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksupyl&theme=blue-navy&border_radius=10)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark&border_radius=10)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksupyl&theme=blue-navy&border_radius=10)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ksupyl&theme=dark&border_radius=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
    ### :wink: For mood:
