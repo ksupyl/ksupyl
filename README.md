@@ -27,6 +27,7 @@
   ### :hammer_and_wrench: Tools:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
   ### :woman_student: Education:
@@ -38,8 +39,11 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+  ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
   ![Sololearn](https://img.shields.io/badge/SoloLearn-white?logo=SoloLearn)
   ![Stepik](https://img.shields.io/badge/Stepik-black?logo=Stepik)
+  ![CodeBasics](https://img.shields.io/badge/CodeBasics-blue?logo=CodeBasics)
+  ![CodeBasics](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)
   ![Mimo](https://img.shields.io/badge/Mimo-purple?logo=Mimo)
   ![Programming Hub](https://img.shields.io/badge/Programming_Hub-blue?logo=Programming_Hub)
   
