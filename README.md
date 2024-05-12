@@ -50,7 +50,7 @@
 ---
   ### :fire: My Stats :
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksupyl&theme=blue-navy&border_radius=10)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&langs_count=8&theme=tokyonight&layout=donut)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&langs_count=8&theme=tokyonight&layout=donut)(https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card)
 
 ---
    ### :wink: For mood:
