@@ -47,9 +47,9 @@
   ![Sololearn](https://img.shields.io/badge/SoloLearn-white?logo=SoloLearn)
   ![Stepik](https://img.shields.io/badge/Stepik-black?logo=Stepik)
   ![CodeBasics](https://img.shields.io/badge/CodeBasics-blue?logo=CodeBasics)
-  ![CodeBasics](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)
-  ![Mimo](https://img.shields.io/badge/Mimo-purple?logo=Mimo)
+  ![Hexlet.io](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)
   ![Programming Hub](https://img.shields.io/badge/Programming_Hub-blue?logo=Programming_Hub)
+  ![Mimo](https://img.shields.io/badge/Mimo-purple?logo=Mimo)
   
 ---
   ### :fire: My Stats :
