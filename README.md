@@ -8,7 +8,7 @@
   <h2 align= center>I'm <a href="https://github.com/ksupyl" target="_blank">Ksenia</a>. Let me introduce myself and my modest knowledge and skills <br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0ZHR1eWk0b3p0Y2g3MmI3NzFrdmVoMTA1NXFhaWk3bmVpejA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/hof5uMY0nBwxyjY9S2/giphy.gif" width="40px"/></h2>
   
   ### :woman_technologist: About Me :
-  - :mag: I am currently studying IT and I am still hoping to find something that is *extremely* fascinating to me.
+  - :mag_right: I am currently studying IT and I am still hoping to find something that is *extremely* fascinating to me.
 
 ---
   ### :technologist: Languages, Frameworks and Libraries:
@@ -27,15 +27,20 @@
 
 ---
   ### :hammer_and_wrench: Tools:
+  ##### :computer: IDEs/Editors:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)  
+
+  ##### :art: Design:
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-  
+
+  ##### :alarm_clock: Version Control:
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)    
-  
+
+  ##### :office: Office:
   ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
