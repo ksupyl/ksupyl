@@ -60,7 +60,7 @@
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
   ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
   ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-  ![Sololearn](https://img.shields.io/badge/SoloLearn-white?logo=SoloLearn)
+  ![Sololearn](	https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
   ![Stepik](https://img.shields.io/badge/Stepik-black?logo=Stepik)
   ![CodeBasics](https://img.shields.io/badge/CodeBasics-blue?logo=CodeBasics)
   ![Hexlet.io](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)
