@@ -76,7 +76,7 @@
   ![CodeBasics](https://img.shields.io/badge/CodeBasics-blue?logo=CodeBasics)
   ![Hexlet.io](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)
   ![Programming Hub](https://img.shields.io/badge/Programming_Hub-blue?logo=Programming_Hub)
-  ![Coddy](https://img.shields.io/badge/Coddy-blue?logo=Coddy)
+  ![Coddy.tech](https://img.shields.io/badge/Coddy.tech-blue?logo=Coddy.tech)
   ![Mimo](https://img.shields.io/badge/Mimo-purple?logo=Mimo)
 
 ---
