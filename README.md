@@ -88,7 +88,36 @@
   [![ksupyl's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksupyl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.8%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    2 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+JavaScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+HTML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+
+🔥 Editors: 
+Excel                    2 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+VS Code                  2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
+Obsidian                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Unity                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ksupyl/ksupyl/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/10/2024 11:06:46 UTC
+<!--END_SECTION:waka-->
 
 ---
    ### :wink: For mood:
