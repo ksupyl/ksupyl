@@ -104,7 +104,13 @@ VS Code                  2 hrs 42 mins       ███████████�
 Obsidian                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 Unity                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
- Last Updated on 13/10/2024 11:20:36 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ksupyl/ksupyl/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/10/2024 11:25:26 UTC
 <!--END_SECTION:waka-->
 
 ---
