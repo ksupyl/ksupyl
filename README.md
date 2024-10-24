@@ -66,7 +66,7 @@
   [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com)
   [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)
   [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-  [![Sololearn](	https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/)
+  [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/)
   [![Stepik](https://img.shields.io/badge/Stepik-black?logo=Stepik)](https://stepik.org/)
   [![CodeBasics](https://img.shields.io/badge/CodeBasics-blue?logo=CodeBasics)](https://code-basics.com/)
   [![Hexlet.io](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)](https://hexlet.io/)
