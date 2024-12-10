@@ -40,6 +40,7 @@
 
   ##### :art: Design:
   [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+  <a href="https://pixso.net/"><img src="img/icons/px-logo.jpg" alt="Pixco" width="85"/></a>
 
   ##### :alarm_clock: Version Control:
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
