@@ -83,8 +83,18 @@
   [![ksupyl's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksupyl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/12/2024 01:09:27 UTC
+```text
+💬 Programming Languages: 
+Other                    1 hr 27 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Excel                    1 hr 27 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/12/2024 01:08:38 UTC
 <!--END_SECTION:waka-->
 
 ---
