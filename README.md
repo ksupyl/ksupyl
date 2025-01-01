@@ -46,8 +46,9 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-  ##### :calendar: Workflow Platforms:
+  ##### :handshake: Collaboration Tools:
   [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com)
+  [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](https://miro.com)
 
   ##### :office: Office:
   [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/ru-ru/microsoft-365/word)
