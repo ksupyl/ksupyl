@@ -47,7 +47,7 @@
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
   ##### :handshake: Collaboration Tools:
-  [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com)
+  [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](https://trello.com)
   [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](https://miro.com)
 
   ##### :office: Office:
