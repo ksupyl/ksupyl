@@ -88,14 +88,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/11/2025 01:18:28 UTC
+ Last Updated on 21/11/2025 01:19:01 UTC
 <!--END_SECTION:waka-->
 
 ---
