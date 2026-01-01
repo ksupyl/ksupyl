@@ -93,16 +93,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 29 mins       ████████████████████████░   97.75 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2025 01:25:58 UTC
+ Last Updated on 01/01/2026 01:44:03 UTC
 <!--END_SECTION:waka-->
 
 ---
