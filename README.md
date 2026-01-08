@@ -93,14 +93,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/01/2026 01:26:41 UTC
+ Last Updated on 08/01/2026 01:27:27 UTC
 <!--END_SECTION:waka-->
 
 ---
