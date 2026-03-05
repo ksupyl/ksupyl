@@ -93,14 +93,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 23 mins       ███████████████████░░░░░░   77.65 % 
+Java Properties          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 hrs 52 mins       ███████████████████████░░   93.15 % 
+PyCharm                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 
 
- Last Updated on 04/03/2026 01:51:38 UTC
+ Last Updated on 05/03/2026 01:54:34 UTC
 <!--END_SECTION:waka-->
 
 ---
