@@ -93,14 +93,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 3 mins        █████████████████████████   100.00 % 
+Java                     4 hrs 11 mins       ███████████████████░░░░░░   74.27 % 
+Other                    1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 3 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 11 mins       ███████████████████░░░░░░   74.27 % 
+Word                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 ```
 
 
- Last Updated on 19/03/2026 02:01:20 UTC
+ Last Updated on 20/03/2026 01:55:22 UTC
 <!--END_SECTION:waka-->
 
 ---
