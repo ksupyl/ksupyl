@@ -93,20 +93,20 @@
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.29 % 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    1 hr 27 mins        ████████████░░░░░░░░░░░░░   47.41 % 
+Markdown                 1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.63 % 
+Java                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.29 % 
-Word                     1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Obsidian                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Word                     1 hr 27 mins        ████████████░░░░░░░░░░░░░   47.41 % 
+Obsidian                 1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.63 % 
+IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
- Last Updated on 25/03/2026 01:59:44 UTC
+ Last Updated on 26/03/2026 02:06:01 UTC
 <!--END_SECTION:waka-->
 
 ---
