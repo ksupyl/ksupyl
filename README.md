@@ -93,16 +93,14 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 41 mins       █████████████████████████   98.06 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown                 2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 41 mins       █████████████████████████   98.06 % 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Obsidian                 2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 01:58:36 UTC
+ Last Updated on 29/03/2026 02:09:31 UTC
 <!--END_SECTION:waka-->
 
 ---
