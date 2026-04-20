@@ -93,22 +93,21 @@
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 27 mins      ███████████████░░░░░░░░░░   59.83 % 
-Java                     12 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   37.96 % 
-Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    20 hrs 32 mins      ███████████████░░░░░░░░░░   58.35 % 
+Java                     13 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.09 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 8 mins       ██████████████░░░░░░░░░░░   56.01 % 
-IntelliJ IDEA            11 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   33.93 % 
-Edge                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Chrome                   19 hrs 21 mins      ██████████████░░░░░░░░░░░   54.98 % 
+IntelliJ IDEA            12 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
+Edge                     3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Obsidian                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 
- Last Updated on 19/04/2026 02:28:54 UTC
+ Last Updated on 20/04/2026 02:29:21 UTC
 <!--END_SECTION:waka-->
 
 ---
