@@ -93,19 +93,21 @@
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 15 mins      ████████████████████░░░░░   78.35 % 
-Markdown                 6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Other                    26 hrs 43 mins      ██████████████████████░░░   86.41 % 
+Markdown                 3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 34 mins      █████████████████░░░░░░░░   69.69 % 
-Obsidian                 6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Edge                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Chrome                   23 hrs 58 mins      ███████████████████░░░░░░   77.53 % 
+Obsidian                 3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Edge                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+PyCharm                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 
- Last Updated on 28/04/2026 02:41:26 UTC
+ Last Updated on 29/04/2026 02:41:10 UTC
 <!--END_SECTION:waka-->
 
 ---
