@@ -89,8 +89,25 @@
   [![ksupyl's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksupyl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/05/2026 03:27:25 UTC
+```text
+💬 Programming Languages: 
+Other                    18 hrs 6 mins       ███████████████████░░░░░░   74.17 % 
+Markdown                 3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Java                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+
+🔥 Editors: 
+Chrome                   16 hrs 43 mins      █████████████████░░░░░░░░   68.48 % 
+Obsidian                 3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+IntelliJ IDEA            2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Edge                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+```
+
+
+ Last Updated on 19/05/2026 02:56:20 UTC
 <!--END_SECTION:waka-->
 
 ---
