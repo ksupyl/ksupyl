@@ -93,18 +93,20 @@
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 8 mins       ████████████████████████░   95.07 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    12 hrs 37 mins      ██████████████████████░░░   87.00 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 8 mins       ████████████████████░░░░░   80.56 % 
-Edge                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-IntelliJ IDEA            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Chrome                   10 hrs 44 mins      ██████████████████░░░░░░░   73.99 % 
+Edge                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+IntelliJ IDEA            1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
 
 
- Last Updated on 09/06/2026 02:51:31 UTC
+ Last Updated on 10/06/2026 03:29:04 UTC
 <!--END_SECTION:waka-->
 
 ---
