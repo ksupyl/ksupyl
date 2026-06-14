@@ -91,20 +91,20 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 10 mins      ██████████████████░░░░░░░   70.58 % 
-Java                     2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Other                    8 hrs 23 mins       █████████████████░░░░░░░░   69.66 % 
+Java                     2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+GitIgnore file           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 12 mins       ██████████████░░░░░░░░░░░   56.89 % 
-IntelliJ IDEA            3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Edge                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Chrome                   6 hrs 30 mins       ██████████████░░░░░░░░░░░   54.09 % 
+IntelliJ IDEA            3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Edge                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 ```
 
 
- Last Updated on 13/06/2026 03:28:43 UTC
+ Last Updated on 14/06/2026 03:44:53 UTC
 <!--END_SECTION:waka-->
 
 ---
