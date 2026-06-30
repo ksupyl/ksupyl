@@ -91,17 +91,17 @@
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 20 mins       ████████████████████████░   95.84 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    3 hrs 3 mins        ████████████████████████░   94.21 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 53 mins       ██████████████████████░░░   86.06 % 
-Edge                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-IntelliJ IDEA            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Chrome                   2 hrs 43 mins       █████████████████████░░░░   83.92 % 
+Edge                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+IntelliJ IDEA            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 
- Last Updated on 29/06/2026 03:37:55 UTC
+ Last Updated on 30/06/2026 03:25:05 UTC
 <!--END_SECTION:waka-->
 
 ---
