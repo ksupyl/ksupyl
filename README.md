@@ -87,8 +87,25 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&langs_count=8&theme=tokyonight&layout=donut)    
   
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2026 02:30:42 UTC
+```text
+💬 Programming Languages: 
+Other                    32 hrs 41 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   23 hrs 23 mins      ██████████████████░░░░░░░   71.52 % 
+Edge                     9 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 08/08/2026 01:19:19 UTC
 <!--END_SECTION:waka-->
 
 ---
