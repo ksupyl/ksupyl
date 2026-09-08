@@ -91,11 +91,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 17 mins       █████████████████████████   100.00 % 
+Other                    7 hrs 38 mins       ████████████████████████░   96.28 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 39 mins       ███████████████████████░░   91.25 % 
-Edge                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Chrome                   7 hrs 5 mins        ██████████████████████░░░   89.48 % 
+Edge                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+IntelliJ IDEA            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +107,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/09/2026 02:48:31 UTC
+ Last Updated on 08/09/2026 02:58:47 UTC
 <!--END_SECTION:waka-->
 
 ---
