@@ -1,4 +1,4 @@
-  <div id="header" align="center">
+<div id="header" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1jNXd0OXE5bjFnOXJ6b3J3NjJhenh1N3o1dmJ2MXA4YnpxZ20zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
   </div>
   <h1 align= center>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
@@ -8,30 +8,44 @@
   <h2 align= center>I'm <a href="https://github.com/ksupyl" target="_blank">Ksenia</a>. Let me introduce myself and my modest knowledge and skills <br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0ZHR1eWk0b3p0Y2g3MmI3NzFrdmVoMTA1NXFhaWk3bmVpejA2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/hof5uMY0nBwxyjY9S2/giphy.gif" width="40px"/></h2>
 
   ### :woman_technologist: About Me :
-  - :mag_right: I am currently studying IT and I am still hoping to find something that is *extremely* fascinating to me.
+  - :books: I write online programming courses on [Stepik](https://stepik.org/users/251731608/teach) — lessons, tasks and tests — and work with a small team on content and student support.
+  - :mag_right: Now I am learning to build the tools behind them: Master's student at ITMO × Yandex Practicum, backend track.
+  - :thought_balloon: The part I like sits between education and engineering — how to tell from the data that a course is broken, and fix it with tooling instead of by hand.
 
 ---
-  ### :books: Languages, Frameworks, Platforms and Libraries:
+  ### :rocket: Projects:
+  **[java-filmorate](https://github.com/ksupyl/java-filmorate)** — REST service on Java 21 and Spring Boot 3: films, likes, friends, recommendations. Layered architecture, validation, CI.
+
+  **[java-kanban](https://github.com/ksupyl/java-kanban)** — task tracker: epics and subtasks, view history, time-based prioritization, HTTP API, CSV persistence, JUnit 5 tests.
+
+  **[Fairy Forest](https://github.com/ksupyl/Fairy_Forest_Parallax_website_portfolio)** — responsive site with parallax scrolling and BEM markup.
+
+---
+  ### :books: Currently working with:
+  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+  [![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org)
+  [![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/)](https://www.postgresql.org)
+
+  ### :art: Also comfortable with:
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+  [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
   [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
 
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
   [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-
-  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ---
   ### :hammer_and_wrench: Tools:
   ##### :computer: IDEs/Editors and Linters:
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
   [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
   [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
   [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/)
@@ -40,8 +54,11 @@
   [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io)
   [![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
 
-  ##### :outbox_tray: Databases
-  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/)](https://www.postgresql.org)
+  ##### :robot: AI Tools:
+  [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
+  [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+  [![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+  [![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com)
 
   ##### :art: Design:
   [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
@@ -62,73 +79,20 @@
 
 ---
   ### :woman_student: Education:
-  [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.ru/)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/)
-  [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+  **ITMO University × Yandex Practicum** — Master's in Applied Informatics, backend track.
+
+  Before IT — cynology, with two theses built on measurements, indices and correlations. The method transfers better than you would think.
+
+  ##### :open_book: Where I learn and practise:
+  [![Stepik](https://img.shields.io/badge/Stepik-2C3A45?style=for-the-badge)](https://stepik.org/users/251731608/profile)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KusPyl/)
+  [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/ru/profile/18781128)
   [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/)
-  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/)
-  [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
-  [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com)
-  [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)
-  [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-  [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/)
-  [![Stepik](https://img.shields.io/badge/Stepik-black?logo=Stepik)](https://stepik.org/)
-  [![CodeBasics](https://img.shields.io/badge/CodeBasics-blue?logo=CodeBasics)](https://code-basics.com/)
-  [![Hexlet.io](https://img.shields.io/badge/Hexlet-blue?logo=Hexlet.io)](https://hexlet.io/)
-  [![Programming Hub](https://img.shields.io/badge/Programming_Hub-blue?logo=Programming_Hub)](https://programminghub.io/)
-  [![Coddy.tech](https://img.shields.io/badge/Coddy.tech-blue?logo=Coddy.tech)](https://coddy.tech/)
-  [![Mimo](https://img.shields.io/badge/Mimo-purple?logo=Mimo)](https://mimo.org/)
 
 ---
   ### :fire: My Stats :
   [![GitHub Streak](https://streak-stats.demolab.com?user=ksupyl&theme=windows-dark)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksupyl&langs_count=8&theme=tokyonight&layout=donut)    
-  
-  <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    13 hrs 33 mins      ████████████████████████░   95.44 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-🔥 Editors: 
-Chrome                   12 hrs 12 mins      █████████████████████░░░░   85.98 % 
-Edge                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-IntelliJ IDEA            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Obsidian                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 17/09/2026 03:20:56 UTC
-<!--END_SECTION:waka-->
 
 ---
    ### :wink: For mood:
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-<!--
-**ksupyl/ksupyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Jokes Card](https://readme-jokes.vercel.app/api?v=2)
