@@ -11,6 +11,7 @@
   - :books: I write online programming courses on [Stepik](https://stepik.org/users/251731608/teach) — lessons, tasks and tests — and work with a small team on content and student support.
   - :mag_right: Now I am learning to build the tools behind them: Master's student at ITMO × Yandex Practicum, backend track.
   - :thought_balloon: The part I like sits between education and engineering — how to tell from the data that a course is broken, and fix it with tooling instead of by hand.
+  - :microphone: I run a [Telegram channel](https://t.me/KsenKitsu) about AI in education and design, and speak about it at meetups and conferences.
 
 ---
   ### :rocket: Projects:
@@ -19,6 +20,14 @@
   **[java-kanban](https://github.com/ksupyl/java-kanban)** — task tracker: epics and subtasks, view history, time-based prioritization, HTTP API, CSV persistence, JUnit 5 tests.
 
   **[Fairy Forest](https://github.com/ksupyl/Fairy_Forest_Parallax_website_portfolio)** — responsive site with parallax scrolling and BEM markup.
+
+---
+  ### :microphone: Speaking & writing:
+  **[Ксенсей Кицунэ](https://t.me/KsenKitsu)** — my Telegram channel: AI experiments and videos, notes on studying and teaching, and — as the channel bio puts it — a real love for finding hidden mistakes.
+
+  Speaking in October 2026:
+  - **[AI meetup, School 21 × Stepik](https://21school.timepad.ru/event/4194193/)**, 1 October — *Visuals with AI: hard cases, and why your own idea is what decides*
+  - **[Stepicon 2026](https://stepicon.org/?utm_source=ksenkitsu&utm_medium=channel&utm_campaign=stepikon26speakers)**, 2–3 October — *Visuals with AI: how to illustrate your course clearly*
 
 ---
   ### :books: Currently working with:
