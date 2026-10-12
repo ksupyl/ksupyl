@@ -15,7 +15,7 @@
 
 ---
   ### :rocket: Projects:
-  **[java-filmorate](https://github.com/ksupyl/java-filmorate)** — REST service on Java 21 and Spring Boot 3: films, likes, friends, recommendations. Layered architecture, validation, CI.
+  **[java-filmorate](https://github.com/ksupyl/java-filmorate)** — team project, I led a team of four. REST service on Java 21 and Spring Boot 3: films, likes, friends, reviews, directors, search, recommendations, event feed. GitHub Flow with two approvals per PR, GitHub Projects board, CI.
 
   **[java-kanban](https://github.com/ksupyl/java-kanban)** — task tracker: epics and subtasks, view history, time-based prioritization, HTTP API, CSV persistence, JUnit 5 tests.
 
