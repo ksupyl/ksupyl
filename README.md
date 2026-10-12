@@ -9,7 +9,7 @@
 
   ### :woman_technologist: About Me :
   - :books: I write online programming courses on [Stepik](https://stepik.org/users/251731608/teach) — lessons, tasks and tests — and work with a small team on content and student support.
-  - :mag_right: Now I am learning to build the tools behind them: Master's student at ITMO × Yandex Practicum, backend track.
+  - :mag_right: Now I am learning to build the tools behind them: Master's student at ITMO, backend track.
   - :thought_balloon: The part I like sits between education and engineering — how to tell from the data that a course is broken, and fix it with tooling instead of by hand.
   - :microphone: I run a [Telegram channel](https://t.me/KsenKitsu) about AI in education and design, and speak about it at meetups and conferences.
 
